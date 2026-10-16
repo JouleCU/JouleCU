@@ -3,7 +3,7 @@
 Lima, Peru | [LinkedIn](https://linkedin.com/in/julio-cabanillas) | [GitHub](https://github.com/juliocabanillas) | julio.cabanillas2411@gmail.com
 
 ## 🚀 About Me
-Senior Software & Data Engineer with 7+ years of professional experience specializing in high-throughput backend systems, distributed microservices, and large-scale data processing pipelines. Deep expertise in **Go (Golang)**, **Python**, **PostgreSQL**, **Redis**, and cloud infrastructure automation (**AWS, Docker, GitHub Actions**). Passionate about clean architecture, performance optimization, concurrency patterns, and leveraging AI-assisted development workflows to accelerate delivery and scale production systems.
+Senior Software & Data Engineer with 8+ years of professional experience specializing in high-throughput backend systems, distributed microservices, and large-scale data processing pipelines. Deep expertise in **Go (Golang)**, **Python**, **PostgreSQL**, **Redis**, and cloud infrastructure automation (**AWS, Docker, GitHub Actions**). Passionate about clean architecture, performance optimization, concurrency patterns, and leveraging AI-assisted development workflows to accelerate delivery and scale production systems.
 
 ## 🛠️ Tech Stack & Core Skills
 
