@@ -14,7 +14,7 @@ Senior Software & Data Engineer with 8+ years of professional experience special
 *   **Data Engineering & Tooling:** dbt, Airbyte, Step Functions, Git, AI Integration (OpenAI, Claude, Copilot)
 
 ## 📫 How to reach me:
-*Feel free to reach out via email at **julio.cabanillas2411@gmail.com** or connect with me on [LinkedIn](https://linkedin.com/in/julio-cabanillas).*[cite: 1]
+*Feel free to reach out via email at **julio.cabanillas2411@gmail.com** or connect with me on [LinkedIn](https://linkedin.com/in/julio-cabanillas).*
 
 ## ⚡ Fun facts:
 - I'm a really good cook because I grew up as a picky eater.
